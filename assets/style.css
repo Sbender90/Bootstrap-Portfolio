@@ -1,0 +1,116 @@
+.body {
+	width: 100%;
+	/*background-color: #ffffff;
+	height: 100%;
+	width: 100%;
+*/
+}
+
+.header {
+	border-bottom: 2px solid;
+	border-color: #e1e1e1;
+}
+.navbar-nav {
+	float: right;
+	margin-left: 60%;
+}
+
+.navbar-brand{
+	color: #ffffff;
+	height: 100%;
+	width: 220px;
+	margin-left: 20%;
+	font-size: 30px;
+	background-color: #4aaaa5;
+	text-align: center;
+}
+
+.nav-link {
+	border-right: 2px solid;
+	border-color: #e1e1e1;
+}
+
+.main-box{
+	margin-left: 20%;
+	margin-right: 40%;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	background-color: #ffffff;
+	height: fit-content;
+	
+}
+
+.sub-box h2{
+	color: #4aaaa5;
+	border-top: 2px solid;
+	border-color: #e1e1e1;
+
+}
+
+#my-pic{
+	float: left;
+	margin: 15px;
+}
+.social-media {
+	width: 270px;
+	text-align: center;
+	border: 2px solid;
+	background-color: #ffffff;
+	border-color: #e1e1e1;
+	color: #4aaaa5;
+	float: right;
+	margin-right: 20%;
+	margin-top: -40%;
+
+}
+
+.social-media2{
+	width: 270px;
+	text-align: center;
+	border: 2px solid;
+	border-color: #e1e1e1;
+	color: #4aaaa5;
+	background-color: #ffffff;
+	float: right;
+	margin-right: 20%;
+	margin-top: -19.5%;
+
+
+}
+
+#github-icon, #linkedin-icon {
+	border-right: 2px solid;
+	border-color: #e1e1e1;
+	border-height: 100%;
+	width: 33%;
+	display: inline;
+}
+
+.card {
+
+}
+
+.card-header {
+	text-align: center;
+	background-color: #666666;
+	height: 50px;
+}
+
+.btn {
+	background-color: #4aaaa5;
+	margin-top: 3%;
+}
+body {
+	background-image: url(images/background.png);
+}
+section {
+	display: inline;
+}
+
+ul {
+	margin-right: 8px;
+}
+
+p {
+	margin: 15px;
+}
