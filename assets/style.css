@@ -40,10 +40,22 @@
 	
 }
 
-.sub-box h2{
+.main-box2{
+	margin-left: 20%;
+	margin-right: 40%;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	background-color: #ffffff;
+	height: 1100px;
+
+	
+}
+
+#sub-box h2{
 	color: #4aaaa5;
 	border-top: 2px solid;
 	border-color: #e1e1e1;
+	margin-left: 15px;
 
 }
 
@@ -78,6 +90,23 @@
 
 }
 
+.social-media3 {
+	width: 270px;
+	text-align: center;
+	border: 2px solid;
+	border-color: #e1e1e1;
+	color: #4aaaa5;
+	background-color: #ffffff;
+    float: right;
+	margin-right: 20%;
+	margin-top: -73%;
+}
+
+#sub-box {
+	height: fit-content;
+	background-color: #ffffff;
+}
+
 #github-icon, #linkedin-icon {
 	border-right: 2px solid;
 	border-color: #e1e1e1;
@@ -94,12 +123,31 @@
 	text-align: center;
 	background-color: #666666;
 	height: 50px;
+	width: 100%;
 }
 
 .btn {
 	background-color: #4aaaa5;
 	margin-top: 3%;
 }
+
+.card {
+	float: left;
+	margin: 15px;
+}
+
+.image-grid {
+	width: 670px;
+	margin: 10px;
+	text-align: center;
+
+}
+
+.card-body {
+	
+	background-color: #4aaaa5;
+}
+
 body {
 	background-image: url(images/background.png);
 }
