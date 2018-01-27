@@ -99,7 +99,7 @@
 	background-color: #ffffff;
     float: right;
 	margin-right: 20%;
-	margin-top: -73%;
+	margin-top: -67%;
 }
 
 #sub-box {
@@ -110,14 +110,12 @@
 #github-icon, #linkedin-icon {
 	border-right: 2px solid;
 	border-color: #e1e1e1;
-	border-height: 100%;
-	width: 33%;
+	
+	
 	display: inline;
 }
 
-.card {
 
-}
 
 .card-header {
 	text-align: center;
